@@ -1,3 +1,4 @@
+                                                                  #SOLUTIONS OF ASSIGNMENT 2
 #ASSIGNMENT 2 SOLUTION 1
 a="python is a case sensitive language"
 print("length of string=",len(a))
